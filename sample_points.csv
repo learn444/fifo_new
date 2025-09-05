@@ -1,0 +1,10 @@
+id,value,category,priority,timestamp,metadata
+point_000001,1,category_1,low,1756824502.8179502,Generated point 1
+point_000002,2,category_2,high,1756824502.8179915,Generated point 2
+point_000003,3,category_3,high,1756824502.8180137,Generated point 3
+point_000004,4,category_4,low,1756824502.8180306,Generated point 4
+point_000005,5,category_5,medium,1756824502.8180456,Generated point 5
+point_000006,6,category_6,medium,1756824502.81806,Generated point 6
+point_000007,7,category_7,high,1756824502.8180733,Generated point 7
+point_000008,8,category_8,high,1756824502.8181078,Generated point 8
+point_000009,9,category_9,high,1756824502.8181229,Generated point 9
